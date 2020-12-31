@@ -1,5 +1,5 @@
 # my_jd
-感谢原作者[xjblszyy](https://github.com/xjblszyy/jd_seckill)jd_seckill项目
+感谢原作者[xjblszyy](https://github.com/xjblszyy)的[jd_seckill](https://github.com/xjblszyy/jd_seckill)项目
 
 ## 特别声明:
 
